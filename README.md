@@ -20,7 +20,7 @@ Then go sync and migrate the database:
 
 Now you are ready to go!
 
-A shellscript is provided to do the above for you. Just run ./get_started.sh
+A shellscript is provided to do the above for you. Just run `sh get_started.sh`.
 
 
 # Setting structure
