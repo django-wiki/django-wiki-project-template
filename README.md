@@ -7,7 +7,7 @@ the awesome django-wiki (http://django-wiki.org)
 
 Start a project like this:
 
-    django-admin.py startproject --template=https://github.com/valberg/django-wiki-project-template/archive/master.zip <project_name>
+    django-admin.py startproject --template=https://github.com/django-wiki/django-wiki-project-template/archive/master.zip <project_name>
 
 Now make sure you have everything installed in your virtualenv (you are using
 virtualenv right!?):
